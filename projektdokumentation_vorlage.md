@@ -14,9 +14,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert einen Charakter, der nach links und rechts bewegen kann. Auf dem Weg sind Hindernisse, denen man ausweichen muss. Ausserdem hat es auf dem Weg Münzen, die man einsammeln kann. Unity ist für uns alle neu. Es ist unser erstes 3D Spiel. Es ist anspruchsvoll, doch sehr spannend. Wir wollen viel über Unity und 3D Spiele lernen und erfolgreich unser erstes Spiel programmieren.
 
 ### 1.2 User Stories
 
