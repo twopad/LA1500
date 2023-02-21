@@ -36,7 +36,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein endloser Runner Spiel. Man st
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![grafik](https://user-images.githubusercontent.com/110892623/220315882-8fda7a5b-f2e9-4841-8b13-04b466be5312.png)
+
 
 ## 2 Planen
 
