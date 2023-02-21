@@ -26,7 +26,7 @@
 | 2    |  Muss           |   F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
 | 3    |  Muss           |   F  | Als ein User möchte ich, dass ich mein Charackter nach rechts ubd Links bewegt, damit mein Charackter nicht in die Hindernisse rein läuft. |
 | 4    |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ch verliere. |
-| 5    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, fall ich das gespielte Level überwinde. |
+| 5    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
 | 6    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charachter Münzen auf dem Weg sammeln kann.|
 | 7    |  Kann           | Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler Aussehe. |
 | 8    |  Muss           | Q   | Als ein User möchte ich, dass ich wenn ich grösser bin mher Münzen sammeln kann , damit es schwerer für mich wird. |
