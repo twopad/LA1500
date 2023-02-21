@@ -14,7 +14,10 @@
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert einen Charakter, der nach links und rechts bewegen kann. Auf dem Weg sind Hindernisse, denen man ausweichen muss. Ausserdem hat es auf dem Weg Münzen, die man einsammeln kann. Unity ist für uns alle neu. Es ist unser erstes 3D Spiel. Es ist anspruchsvoll, doch sehr spannend. Wir wollen viel über Unity und 3D Spiele lernen und erfolgreich unser erstes Spiel programmieren.
+✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+
+✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -25,10 +28,10 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 4    |  Muss           | F   | Als ein User möchte ich ,dass ich das Level wiederholen kann, falls ch verliere. |
 | 5    |  Muss           | F   | Als ein User möchte ich ,dass ich direkt zum nächsten Level gehe, fall ich das gespielte Level überwinde. |
 | 6    |  Muss           | F   | Als ein User möchte ich ,dass ich mit meinem Charachter Münzen auf dem Weg sammeln kann.|
-| 7    |  Muss           | F   |Als ein User möchte ich ,dass ich , damit  |
-| 8    |  Muss           | F   | Als ein User möchte ich ,dass ich , damit  |
-| 9    |  Muss           | F   | Als ein User möchte ich ,dass ich , damit  |
-| 10   |  Muss           | F   | Als ein User möchte ich ,dass ich , damit  |
+| 7    |  Kann           | Q   | Als ein User möchte ich ,dass ich mit Münzen einen Skin kaufen kann, damit ich cooler Aussehe. |
+| 8    |  Muss           | Q   | Als ein User möchte ich ,dass ich wenn ich grösser bin mher Münzen sammeln kann , damit es schwerer für mich wird. |
+| 9    |  Muss           | Q   | Als ein User möchte ich ,dass ich Ich auch schrumpfen kann, damit das Spiel schwieriger wird |
+| 10   |  Kann           | Q   | Als ein User möchte ich ,dass ich eine Shop öffnen kann , damit ich Skins kaufen kann. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
