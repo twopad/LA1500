@@ -14,14 +14,24 @@
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein 3D-Game in Unity und C#. Es ist ein endloser Runner Spiel. Man steuert einen Charakter, der springen kann und nach links und rechts gehen kann. Auf dem Weg sind Hindernisse, die man ausweichen muss. Ausserdem hat es auf dem Weg Sachen, die man einsammeln kann. Unity ist für uns alle neu. Es ist unser erstes 3D Spiel. Es ist anspruchsvoll, doch sehr spannend. Wir wollen viel über Unity und 3D Spiele lernen. 
+✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+
+✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |  Muss           |  F   | Als ein User möchte ich,dass ich ein Level auswählen kann, damit ich spielen kann.|
+| 2    |  Muss           |   F  | Als ein User möchte ich,dass ich automatisch nach vorne gehen. |
+| 3    |  Muss           |   F  | Als ein User möchte ich,dass ich mein Charackter nach rechts ubd Links bewegt, damit mein Charackter nicht in die Hindernisse rein läuft. |
+| 4    |  Muss           | F   | Als ein User möchte ich ,dass ich das Level wiederholen kann, falls ch verliere. |
+| 5    |  Muss           | F   | Als ein User möchte ich ,dass ich direkt zum nächsten Level gehe, fall ich das gespielte Level überwinde. |
+| 6    |  Muss           | F   | Als ein User möchte ich ,dass ich mit meinem Charachter Münzen auf dem Weg sammeln kann.|
+| 7    |  Muss           | F   |Als ein User möchte ich ,dass ich , damit  |
+| 8    |  Muss           | F   | Als ein User möchte ich ,dass ich , damit  |
+| 9    |  Muss           | F   | Als ein User möchte ich ,dass ich , damit  |
+| 10   |  Muss           | F   | Als ein User möchte ich ,dass ich , damit  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -36,8 +46,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein endloser Runner Spiel. Man st
 
 ### 1.4 Diagramme
 
-![grafik](https://user-images.githubusercontent.com/110892623/220315882-8fda7a5b-f2e9-4841-8b13-04b466be5312.png)
-
+✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 
 ## 2 Planen
 
