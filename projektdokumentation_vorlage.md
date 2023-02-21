@@ -45,7 +45,7 @@
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/110892575/220322647-f30f1589-278a-4aef-9509-8c1940a2dc88.png">
 ![grafik](https://user-images.githubusercontent.com/110892623/220318401-ec8f884e-d120-4e52-a067-b51ab6089a61.png)
 
 
