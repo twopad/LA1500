@@ -46,7 +46,8 @@
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![grafik](https://user-images.githubusercontent.com/110892623/220318401-ec8f884e-d120-4e52-a067-b51ab6089a61.png)
+
 
 ## 2 Planen
 
