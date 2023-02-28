@@ -34,7 +34,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 12   |  Kann           |  Q  | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
 | 13   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
 | 14   |  Kann           |  Q  | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
-| 15   |  Kann           | Q   |  |
+| 15   |  Kann           |  Q  |  |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -52,9 +52,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 7.1  |  Level läuft   |    rechte/linke Pfeiltaste        |     Ton         |
 | 8.1  | Spieler läuft durch eine grösser werdende Türe im Level durch      |   -          |      Spieler wird grösser        |       
 | 9.1  | Spieler läuft durch eine kleiner werdende Türe im Level durch      |   -       |       Spieler wird kleiner    |       
-| 10.1 |   Level läuft und Spieler ist gross    |     -      |     Grössere Fläche wird abgedeckt, also einfacher Münzen zu sammeln          |    
-| 11.1 |       |           |              |               
-| ...  |       |           |              |               
+| 10.1 |   Level läuft und Spieler ist grösser geworden    |     -      |    Grösser Fläche wird vom Spieler abgedeckt, also einfacher Münzen aufzusammeln    |    
+| 11.1 |   Level läuft und Spieler ist kleiner geworden    |  -         |     Kleiner Fläche wird vom Spieler abgedeckt, also schwieriger Münzen aufzusammeln   |        | 12.1 |       |           |              |               
 | ...  |       |           |              |               
 | ...  |       |           |              |               
 | ...  |       |           |              |               
