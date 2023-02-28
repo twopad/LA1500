@@ -23,7 +23,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 1    |  Muss           |  F  | Als ein User möchte ich, dass ich ein Level auswählen kann, damit ich spielen kann.|
 | 2    |  Muss           |  F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
 | 3    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
-| 5    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
+| 5    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach links bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 4    |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
 | 5    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
 | 6    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
