@@ -31,7 +31,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 9    |  Muss           | F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
 | 10   |  Kann           | Q   | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
 | 11   |  Kann           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
-| 12   |  Muss           | Q   |  |
+| 12   |  Muss           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
 | 13   |  Muss           | Q   |  |
 | 14   |  Kann           | Q   |  |
 | 15   |  Kann           | Q   |  |
