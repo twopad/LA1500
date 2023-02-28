@@ -24,16 +24,16 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 2    |  Muss           |  F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
 | 3    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 4    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach links bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
-| 5    |  Muss           |  F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
-| 6    |  Muss           |  F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
-| 7    |  Muss           |  F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
-| 8    |  Muss           |  F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
-| 9    |  Muss           |  F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
-| 10   |  Muss           |  F   | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es einfacher für mich wird. |
-| 11   |  Muss           |  F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
-| 12   |  Kann           |  Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
-| 13   |  Kann           |  Q   | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
-| 14   |  Kann           |  Q   | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
+| 5    |  Muss           |  F  | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
+| 6    |  Muss           |  F  | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
+| 7    |  Muss           |  F  | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
+| 8    |  Muss           |  F  | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
+| 9    |  Muss           |  F  | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
+| 10   |  Muss           |  F  | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es einfacher für mich wird. |
+| 11   |  Muss           |  F  | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
+| 12   |  Kann           |  Q  | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
+| 13   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
+| 14   |  Kann           |  Q  | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
 | 15   |  Kann           | Q   |  |
 
 
