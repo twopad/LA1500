@@ -68,8 +68,26 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       |           | Den Startbildschirm erstellen| 45 |
+|      |       |           | Das Levelmenü erstellen| 45' |
+| 1.A  |       |           | Shop für skins erstellen |45' |
+|      |       |           | Spieler läuft automatsich nach vorne| 45'|
+| 1.A  |       |           | Den Spieler mit den Pfeiltasten nach links und rechts bewegen können.|45'|
+|      |       |           | Den Spieler grösser machen wenn er durch eine vergrösserungs Tür läuft  |  45'  |
+| 1.A  |       |           | Den Spieler kleiner machen wenn er durch eine verkleinerungs Tür läuft  |45' |
+|      |       |           | Münzen sammeln | 45'|
+| 1.A  |       |           | Münzen können gespeichert und benutzt werden| 45' |
+|      |       |           | Man kann mit Münzen Skins im Shop kaufen| 45'|
+| 1.A  |       |           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
+|      |       |           | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
+| 1.A  |       |           | Wenn man im Level gegen ein Hinderniss läuft, muss man das Level weiderholen| 45'|
+|      |       |           |              |        45'         |
+| 1.A  |       |           |              |    45'             |
+|      |       |           |              |        45'         |
+| 1.A  |       |           |              |     45'            |
+|      |       |           |              |         45'        |
+| 1.A  |       |           |              |        45'         |
+|      |       |           |              |         45'        |
 
 Total: 
 
