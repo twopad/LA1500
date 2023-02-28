@@ -6,7 +6,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|  21.02.2023    | 0.0.1   | Wir haben uns in der Gruppe erstmal näher kennengelernt und haben uns zusammen abgesprochen, welche Themen überhaupt infrage kommen würden. Zum Schluss haben wir uns für ein Spiel, dass wir Growrun genannt haben, entschieden. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
