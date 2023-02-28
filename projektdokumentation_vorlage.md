@@ -24,16 +24,16 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 2    |  Muss           |  F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
 | 3    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 4    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach links bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
-| 5    |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
-| 6    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
-| 7    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
-| 8    |  Muss           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
-| 9    |  Muss           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
-| 10   |  Muss           | F   | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es einfacher für mich wird. |
-| 11   |  Muss           | F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
-| 12   |  Kann           | Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
-| 13   |  Kann           | Q   | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
-| 14   |  Kann           | Q   |  |
+| 5    |  Muss           |  F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
+| 6    |  Muss           |  F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
+| 7    |  Muss           |  F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
+| 8    |  Muss           |  F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
+| 9    |  Muss           |  F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
+| 10   |  Muss           |  F   | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es einfacher für mich wird. |
+| 11   |  Muss           |  F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
+| 12   |  Kann           |  Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
+| 13   |  Kann           |  Q   | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
+| 14   |  Kann           |  Q   | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
 | 15   |  Kann           | Q   |  |
 
 
@@ -49,9 +49,11 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 4.1  |  Spieler geht automatisch nach vorne      |    linke Pfeiltaste drücken        |      Spieler bewegt sich nach links        |               
 | 5.1  |  Spieler läuft in ein Hindernis rein und verliert     |    Auf Level wiederholen klicken       |    Level startet neu         |               
 | 6.1  |  Spieler bewältigt das Level     |    -       |      Nächstes Level beginnt automatisch        |               
-| 7.1  |  Level läuft   |    rechte/linke Pfeiltaste        |     Ton         |               
-| 8.1  |   Level läuft und Spieler ist gross    |     -      |     Grössere Fläche wird abgedeckt, also einfacher Münzen zu sammeln          |    
-| ...  |       |           |              |               
+| 7.1  |  Level läuft   |    rechte/linke Pfeiltaste        |     Ton         |
+| 8.1  | Spieler läuft durch eine grösser werdende Türe im Level durch      |   -          |      Spieler wird grösser        |       
+| 9.1  | Spieler läuft durch eine kleiner werdende Türe im Level durch      |   -       |       Spieler wird kleiner    |       
+| 10.1 |   Level läuft und Spieler ist gross    |     -      |     Grössere Fläche wird abgedeckt, also einfacher Münzen zu sammeln          |    
+| 11.1 |       |           |              |               
 | ...  |       |           |              |               
 | ...  |       |           |              |               
 | ...  |       |           |              |               
