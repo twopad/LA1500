@@ -32,8 +32,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 12   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
 | 13   |  Kann           |  Q  | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
 | 14   |  Kann           |  Q  | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
-| 15   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Level Menu öffnen kann, damit ich die Levels sehen kann. |
-| 16   |  Kann           |  Q  | Als ein User möchte ich, dass ich im Level Menu sehen kann, welche Levels ich schon bewältigt habe, damit ich weiss wie viele ich noch vor mir habe. |
+| 15  |  Kann           |  Q  | Als ein User möchte ich, dass ich im Level Menu sehen kann, welche Levels ich schon bewältigt habe, damit ich weiss wie viele ich noch vor mir habe. |
+|16|Kann | Q | Als ein User möchte ich eine Anzeige haben wie viel Münzen ich schon gesammelt habe, damit ich weiss wann ich einen Skin kaufen kann.|
 
 
 ### 1.3 Testfälle
@@ -55,7 +55,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 13.1 |  Benutzer ist im Shop des Spieles     |     Skin auswählen     |    Skin wird im Tausch von Münzen gekauft         |     
 | 14.1 |  Nächstes Level wird gestartet |     -        |    Dieses Level ist schwieriger, als das vorherige     |               
 | 15.1 |  Benutzer ist im Menu des Spieles     |   Auf Level Menu klicken        |   die Levels, die es gibt, sehen.          |   
-| 16.1 |  Benutzer ist im Level Menu des Spieles    |      -     |     Die Levels, die er noch nicht bewältigt/bewältigt hat sehen         |                           
+| 16.1 |  Benutzer ist im Level Menu des Spieles    |      -     |     Die Levels, die er noch nicht bewältigt/bewältigt hat sehen         |   
+|17.1| Benutzer ist im Menü des Spieles ||Die Münzen, die man eingesammelt hat, werden angezeigt.|
 
 
 ### 1.4 Diagramme
@@ -68,26 +69,28 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           | Den Startbildschirm erstellen| 45 |
-|      |       |           | Das Levelmenü erstellen| 45' |
-| 1.A  |       |           | Shop für skins erstellen |45' |
-|      |       |           | Spieler läuft automatsich nach vorne| 45'|
-| 1.A  |       |           | Den Spieler mit den Pfeiltasten nach links und rechts bewegen können.|45'|
-|      |       |           | Den Spieler grösser machen wenn er durch eine vergrösserungs Tür läuft  |  45'  |
-| 1.A  |       |           | Den Spieler kleiner machen wenn er durch eine verkleinerungs Tür läuft  |45' |
-|      |       |           | Münzen sammeln | 45'|
-| 1.A  |       |           | Münzen können gespeichert und benutzt werden| 45' |
-|      |       |           | Man kann mit Münzen Skins im Shop kaufen| 45'|
-| 1.A  |       |           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
-|      |       |           | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
-| 1.A  |       |           | Wenn man im Level gegen ein Hinderniss läuft, muss man das Level weiderholen| 45'|
-|      |       |           |              |        45'         |
-| 1.A  |       |           |              |    45'             |
-|      |       |           |              |        45'         |
-| 1.A  |       |           |              |     45'            |
-|      |       |           |              |         45'        |
-| 1.A  |       |           |              |        45'         |
-|      |       |           |              |         45'        |
+| 1.A  | 07.03 |           | Den Startbildschirm erstellen| 45 |
+| 1.B     | 07.03 |        | Das Levelmenü erstellen| 45' |
+| 2.A     | 07.03 |        | Spieler läuft automatsich nach vorne| 45'|
+| 3.A     | 07.03 |           | Hindernisse erstellen|45'|
+| 3.B     | 07.03 |           | Verschiedene Hindernisse sind auf dem Weg|45'|
+| 3.C | 07.03 |           | Den Spieler mit den Pfeiltasten nach links bewegen können.|45'|
+| 4.A | 07.03 |           | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
+| 5.A  | 14.03 |           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
+| 5.B  | 07.03 |           | Wenn man im Level gegen ein Hinderniss läuft, muss man das Level weiderholen| 45'|
+| 6.A     | 14.03 |           | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
+| 7.A     | 07.03 |           | Münzen sammeln | 45'|
+| 7.B  | 14.03 |           | Münzen können gespeichert und benutzt werden| 45' |
+| 7.C     | 14.03 |           | Man kann mit Münzen Skins im Shop kaufen| 45'|
+| 8.A  | 14.03 |           | Den Spieler kleiner machen wenn er durch eine verkleinerungs Tür läuft  |45' |
+| 9.A  | 14.03 |           | Den Spieler grösser machen wenn er durch eine vergrösserungs Tür läuft  |  45'  |
+| 10.A     | 14.03 |           | Die Hitbox von dem Spieler wird geändert, wenn er grösser wird.|45' |
+| 11.A     | 14.03 |           | Die Hitbox von dem Spieler wird geändert, wenn er kleiner wird.|45' |
+|12.A|     |                       |Den Shop für Skins wird erstellt|45'|
+|13.A|     |                     |Skins im shop für Münzen kaufen|45'|
+|14.A|     |  Plattform, wo man drauf rennt, erstellen                   |  |45'|
+|15.A|     |   |  Im Menü kann man sehen welche Levels man schon bewältigt hat.|45'|
+| 16.A| 14.03 |           | Es wird angezeigt wie veiel Münzen man eingesammelt hat. |45'|
 
 Total: 
 
