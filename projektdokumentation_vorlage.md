@@ -23,13 +23,13 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 1    |  Muss           |  F  | Als ein User möchte ich, dass ich ein Level auswählen kann, damit ich spielen kann.|
 | 2    |  Muss           |  F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
 | 3    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
-| 4   |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach links bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
-| 5  |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
+| 4    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach links bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
+| 5    |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
 | 6    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
 | 7    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
 | 8    |  Muss           | F   | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es schwerer für mich wird. |
 | 9    |  Muss           | F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
-| 10    |  Muss           | F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
+| 10   |  Muss           | F   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
 | 11   |  Muss           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
 | 12   |  Muss           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
 | 13   |  Kann           | Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
@@ -46,12 +46,12 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   Applikation gestartet      |   Level im Menu ausgewählt.     |   Level gestartet             |
 | 2.1  |  Level gestartet            |     -    |  Spieler automatisch nach vorne gehen                |
-| 3.1  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
+| 3.1  |   Spieler geht automatisch nach vorne     |     rechte Pfeiltaste drücken      |     Spieler bewegt sich nach rechts         |               
+| 4.1  |  Spieler geht automatisch nach vorne      |    linke Pfeiltaste drücken        |      Spieler bewegt sich nach links        |               
+| ...  |       |           |              |               
+| ...  |       |           |              |               
+| ...  |       |           |              |               
+| ...  |       |           |              |               
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
