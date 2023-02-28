@@ -67,9 +67,9 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit(in min) |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 07.03 |           | Den Startbildschirm erstellen| 45 |
+| 1.A  | 07.03 |           | Den Startbildschirm erstellen| 45' |
 | 1.B     | 07.03 |        | Das Levelmenü erstellen| 45' |
 | 2.A     | 07.03 |        | Spieler läuft automatsich nach vorne| 45'|
 | 3.A     | 07.03 |           | Hindernisse erstellen|45'|
@@ -92,7 +92,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 |15.A|     |   |  Im Menü kann man sehen welche Levels man schon bewältigt hat.|45'|
 | 16.A| 14.03 |           | Es wird angezeigt wie veiel Münzen man eingesammelt hat. |45'|
 
-Total: 
+Total: 990 min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
