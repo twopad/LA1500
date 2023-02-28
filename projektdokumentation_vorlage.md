@@ -69,28 +69,28 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit(in min) |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 07.03 |           | Den Startbildschirm erstellen| 45' |
-| 1.B     | 07.03 |        | Das Levelmenü erstellen| 45' |
-| 2.A     | 07.03 |        | Spieler läuft automatsich nach vorne| 45'|
-| 3.A     | 07.03 |           | Hindernisse erstellen|45'|
-| 3.B     | 07.03 |           | Verschiedene Hindernisse sind auf dem Weg|45'|
-| 3.C | 07.03 |           | Den Spieler mit den Pfeiltasten nach links bewegen können.|45'|
-| 4.A | 07.03 |           | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
-| 5.A  | 14.03 |           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
-| 5.B  | 07.03 |           | Wenn man im Level gegen ein Hinderniss läuft, muss man das Level weiderholen| 45'|
-| 6.A     | 14.03 |           | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
-| 7.A     | 07.03 |           | Münzen sammeln | 45'|
-| 7.B  | 14.03 |           | Münzen können gespeichert und benutzt werden| 45' |
-| 7.C     | 14.03 |           | Man kann mit Münzen Skins im Shop kaufen| 45'|
-| 8.A  | 14.03 |           | Den Spieler kleiner machen wenn er durch eine verkleinerungs Tür läuft  |45' |
-| 9.A  | 14.03 |           | Den Spieler grösser machen wenn er durch eine vergrösserungs Tür läuft  |  45'  |
-| 10.A     | 14.03 |           | Die Hitbox von dem Spieler wird geändert, wenn er grösser wird.|45' |
-| 11.A     | 14.03 |           | Die Hitbox von dem Spieler wird geändert, wenn er kleiner wird.|45' |
-|12.A|     |                       |Den Shop für Skins wird erstellt|45'|
-|13.A|     |                     |Skins im shop für Münzen kaufen|45'|
-|14.A|     |  Plattform, wo man drauf rennt, erstellen                   |  |45'|
-|15.A|     |   |  Im Menü kann man sehen welche Levels man schon bewältigt hat.|45'|
-| 16.A| 14.03 |           | Es wird angezeigt wie veiel Münzen man eingesammelt hat. |45'|
+| 1.A  | 07.03 | Nursiwat | Den Startbildschirm erstellen| 45' |
+| 1.B     | 07.03 |  Nursiwat | Das Levelmenü erstellen| 45' |
+| 2.A     | 07.03 |Marku        | Spieler läuft automatsich nach vorne| 45'|
+| 3.A     | 07.03 |Warnebold           | Hindernisse erstellen|45'|
+| 3.B     | 07.03 |  Warnebold         | Verschiedene Hindernisse sind auf dem Weg|45'|
+| 3.C | 07.03 |   Warnebold        | Den Spieler mit den Pfeiltasten nach links bewegen können.|45'|
+| 4.A | 07.03 |  Lucena         | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
+| 5.A  | 14.03 | Lucena           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
+| 5.B  | 07.03 | Lucena           | Wenn man im Level gegen ein Hinderniss läuft, muss man das Level weiderholen| 45'|
+| 6.A| 14.03 | Nursiwat          | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
+| 7.A| 07.03 | Marku          | Münzen sammeln | 45'|
+| 7.B | 14.03 | Marku           | Münzen können gespeichert und benutzt werden| 45' |
+| 7.C | 14.03 | Marku           | Man kann mit Münzen Skins im Shop kaufen| 45'|
+| 8.A | 14.03 | Warnebold          | Den Spieler kleiner machen wenn er durch eine verkleinerungs Tür läuft  |45' |
+| 9.A | 14.03 | Lucena          | Den Spieler grösser machen wenn er durch eine vergrösserungs Tür läuft  |  45'  |
+| 10.A| 14.03 | Lucena          | Die Hitbox von dem Spieler wird geändert, wenn er grösser wird.|45' |
+| 11.A|14.03 | Nursiwat         | Die Hitbox von dem Spieler wird geändert, wenn er kleiner wird.|45' |
+|12.A|14.03  | Nursiwat                      |Den Shop für Skins wird erstellt|45'|
+|13.A|14.03 |  Marku                   |Skins im shop für Münzen kaufen|45'|
+|14.A| 14.03 | Marku                  | Plattform, wo man drauf rennt, erstellen   |45'|
+|15.A|14.03 |Warnebold         |  Im Menü kann man sehen welche Levels man schon bewältigt hat.|45'|
+| 16.A| 14.03 | Nursiwat          | Es wird angezeigt wie veiel Münzen man eingesammelt hat. |45'|
 
 Total: 990 min
 
