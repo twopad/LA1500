@@ -22,16 +22,16 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss           |  F   | Als ein User möchte ich, dass ich ein Level auswählen kann, damit ich spielen kann.|
 | 2    |  Muss           |   F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
-| 3    |  Muss           |   F  | Als ein User möchte ich, dass ich mein Charackter nach rechts ubd Links bewegt, damit mein Charackter nicht in die Hindernisse rein läuft. |
+| 3    |  Muss           |   F  | Als ein User möchte ich, dass ich mein Charakter nach rechts und Links bewegt, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 4    |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
 | 5    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
-| 6    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charachter Münzen auf dem Weg sammeln kann.|
-| 7    |  Kann           | Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler Aussehe. |
-| 8    |  Muss           | Q   | Als ein User möchte ich, dass ich, wenn ich grösser bin , mehr Münzen sammeln kann, damit es schwerer für mich wird. |
-| 9    |  Muss           | Q   | Als ein User möchte ich, dass ich ich auch schrumpfen kann, damit das Spiel schwieriger wird |
-| 10   |  Kann           | Q   | Als ein User möchte ich, dass ich eine Shop öffnen kann, damit ich Skins kaufen kann. |
+| 6    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
+| 7    |  Kann           | Q   | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
+| 8    |  Muss           | Q   | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es schwerer für mich wird. |
+| 9    |  Muss           | Q   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
+| 10   |  Kann           | Q   | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
