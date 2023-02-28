@@ -20,9 +20,9 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss           |  F   | Als ein User möchte ich, dass ich ein Level auswählen kann, damit ich spielen kann.|
-| 2    |  Muss           |   F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
-| 3    |  Muss           |   F  | Als ein User möchte ich, dass ich mein Charakter nach rechts und Links bewegt, damit mein Charakter nicht in die Hindernisse reinläuft. |
+| 1    |  Muss           |  F  | Als ein User möchte ich, dass ich ein Level auswählen kann, damit ich spielen kann.|
+| 2    |  Muss           |  F  | Als ein User möchte ich, dass ich automatisch nach vorne gehen. |
+| 3    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts und Links bewegt, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 4    |  Muss           | F   | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere. |
 | 5    |  Muss           | F   | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde. |
 | 6    |  Muss           | F   | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann.|
@@ -30,6 +30,12 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 8    |  Muss           | Q   | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es schwerer für mich wird. |
 | 9    |  Muss           | Q   | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
 | 10   |  Kann           | Q   | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
+| 11   |  Kann           | F   | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
+| 12   |  Muss           | Q   |  |
+| 13   |  Muss           | Q   |  |
+| 14   |  Kann           | Q   |  |
+| 15   |  Kann           | Q   |  |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
