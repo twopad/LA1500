@@ -48,7 +48,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 2.1  |  Level gestartet            |     -    |  Spieler automatisch nach vorne gehen                |
 | 3.1  |   Spieler geht automatisch nach vorne     |     rechte Pfeiltaste drücken      |     Spieler bewegt sich nach rechts         |               
 | 4.1  |  Spieler geht automatisch nach vorne      |    linke Pfeiltaste drücken        |      Spieler bewegt sich nach links        |               
-| ...  |       |           |              |               
+| 5.1  |  Spieler läuft in ein Hindernis rein und verliert     |    Auf Level wiederholen klicken       |              |               
 | ...  |       |           |              |               
 | ...  |       |           |              |               
 | ...  |       |           |              |               
