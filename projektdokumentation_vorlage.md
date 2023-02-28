@@ -31,10 +31,11 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 9    |  Muss           |  F  | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
 | 10   |  Muss           |  F  | Als ein User möchte ich, dass ich, wenn ich grösser bin, mehr Münzen sammeln kann, damit es einfacher für mich wird. |
 | 11   |  Muss           |  F  | Als ein User möchte ich, dass ich auch schrumpfen kann, damit das Spiel schwieriger wird |
-| 12   |  Kann           |  Q  | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
-| 13   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
+| 12   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Shop öffnen kann, damit ich Skins kaufen kann. |
+| 13   |  Kann           |  Q  | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
 | 14   |  Kann           |  Q  | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
-| 15   |  Kann           |  Q  |  |
+| 15   |  Kann           |  Q  | Als ein User möchte ich, dass ich einen Level Menu öffnen kann, damit ich die Levels sehen kann. |
+| 16   |  Kann           |  Q  | Als ein User möchte ich, dass ich im Level Menu sehen kann, welche Levels ich schon bewältigt habe, damit ich weiss wie viele ich noch vor mir habe. |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -52,12 +53,14 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 7.1  |  Level läuft   |    rechte/linke Pfeiltaste        |     Ton         |
 | 8.1  | Spieler läuft durch eine grösser werdende Türe im Level durch      |   -          |      Spieler wird grösser        |       
 | 9.1  | Spieler läuft durch eine kleiner werdende Türe im Level durch      |   -       |       Spieler wird kleiner    |       
-| 10.1 |   Level läuft und Spieler ist grösser geworden    |     -      |    Grösser Fläche wird vom Spieler abgedeckt, also einfacher Münzen aufzusammeln    |    
-| 11.1 |   Level läuft und Spieler ist kleiner geworden    |  -         |     Kleiner Fläche wird vom Spieler abgedeckt, also schwieriger Münzen aufzusammeln   |        | 12.1 |       |           |              |               
-| ...  |       |           |              |               
-| ...  |       |           |              |               
-| ...  |       |           |              |               
-| ...  |       |           |              |               
+| 10.1 |   Level läuft und Spieler ist grösser geworden    |     -      |    Grösser Fläche wird vom Spieler abgedeckt, also einfacher Münzen aufzusammeln    |       
+| 11.1 |   Level läuft und Spieler ist kleiner geworden    |  -         |     Kleiner Fläche wird vom Spieler abgedeckt, also schwieriger Münzen aufzusammeln   |  
+| 12.1 |  Benutzer ist im Menu des Spieles    |     Auf Shop klicken     |    Man kommt ins Shop und sieht alle möglichen Skins, die man kaufen kann       |      
+| 13.1 |  Benutzer ist im Shop des Spieles     |     Skin auswählen     |    Skin wird im Tausch von Münzen gekauft         |     
+| 14.1 |  Nächstes Level wird gestartet |     -        |    Dieses Level ist schwieriger, als das vorherige     |               
+| 15.1 |  Benutzer ist im Menu des Spieles     |   Auf Level Menu klicken        |   die Levels, die es gibt, sehen.          |   
+| 16.1 |  Benutzer ist im Level Menu des Spieles    |      -     |     Die Levels, die er noch nicht bewältigt/bewältigt hat sehen         |                           
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
