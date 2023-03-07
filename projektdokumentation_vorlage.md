@@ -4,8 +4,9 @@ Gruppe Rose: Lucena, Marku, Nursiwat, Warnebold
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  21.02.2023    | 0.0.1   | Wir haben uns in der Gruppe erstmal näher kennengelernt und haben uns zusammen abgesprochen, welche Themen überhaupt infrage kommen würden. Zum Schluss haben wir uns für ein Spiel, dass wir Growrun genannt haben, entschieden. |
-| 28.02.2023 | 0.02 | Heute haben wir die User Storys, Arbeitspakete und Testfälle aufgeschrieben. Wir haben Unity heruntergeladen und angefangen zu realisieren.                                                             |
+| 21.02.2023 | 0.0.1  | Wir haben uns in der Gruppe erstmal näher kennengelernt und haben uns zusammen abgesprochen, welche Themen überhaupt infrage kommen würden. Zum Schluss haben wir uns für ein Spiel, dass wir Growrun genannt haben, entschieden. |
+| 28.02.2023 | 0.02   | Heute haben wir die User Storys, Arbeitspakete und Testfälle aufgeschrieben. Wir haben Unity heruntergeladen und angefangen zu realisieren.   |
+| 07.03.2023 | 0.02   | Heute haben wir viele Arbeitspakete realisiert und zwei der Gruppe haben angefangen die Präsentation vorzubereiten.|                                                             |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
