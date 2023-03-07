@@ -62,8 +62,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 
 ### 1.4 Diagramme
 [<img width="422" alt="image" src="https://user-images.githubusercontent.com/110892575/220322647-f30f1589-278a-4aef-9509-8c1940a2dc88.png">](https://bbbaden.sharepoint.com/:i:/r/sites/Lernatelier20222023/Freigegebene%20Dokumente/Rose/Screenshot%202023-02-21%20111141.png?csf=1&web=1&e=wvJqmU)
-![grafik](https://user-images.githubusercontent.com/110892623/220322854-83762dce-c406-4e83-b9e3-902da2116f30.png)
 
+![grafik](https://user-images.githubusercontent.com/110892623/223351584-04c042c8-31d3-4c03-ab08-2752e2b538e0.png)
 
 
 ## 2 Planen
