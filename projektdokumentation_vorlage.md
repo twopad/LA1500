@@ -57,7 +57,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 14.1 |  Nächstes Level wird gestartet |     -        |    Dieses Level ist schwieriger, als das vorherige     |               
 | 15.1 |  Benutzer ist im Menu des Spieles     |   Auf Level Menu klicken        |   die Levels, die es gibt, sehen.          |   
 | 15.1 |  Benutzer ist im Level Menu des Spieles    |      -     |     Die Levels, die er noch nicht bewältigt/bewältigt hat sehen         |   
-|16.1| Benutzer ist im Menü des Spieles ||Die Münzen, die man eingesammelt hat, werden angezeigt.|
+|16.1| Benutzer ist im Menü des Spieles |  -  |Die Münzen, die man eingesammelt hat, werden angezeigt.|
 |17.1 | Benutzer ist im Menü des Spieles  | Lautstärke auswählen | Der Spielsound wird leiser/lauter.|
 
 
