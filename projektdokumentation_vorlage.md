@@ -47,15 +47,14 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 4.1  |  Spieler geht automatisch nach vorne      |    linke Pfeiltaste drücken        |      Spieler bewegt sich nach links        |               
 | 5.1  |  Spieler läuft in ein Hindernis rein und verliert     |    Auf Level wiederholen klicken       |    Level startet neu         |               
 | 6.1  |  Spieler bewältigt das Level     |    -       |      Nächstes Level beginnt automatisch        |               
-| 7.1  |  Level läuft   |    rechte/linke Pfeiltaste        |     Ton         |
-| 8.1  | Spieler läuft durch eine grösser werdende Türe im Level durch      |   -          |      Spieler wird grösser        |       
-| 9.1  | Spieler läuft durch eine kleiner werdende Türe im Level durch      |   -       |       Spieler wird kleiner    |       
-| 10.1 |   Level läuft und Spieler ist grösser geworden    |     -      |    Grösser Fläche wird vom Spieler abgedeckt, also einfacher Münzen aufzusammeln    |       
-| 11.1 |   Level läuft und Spieler ist kleiner geworden    |  -         |     Kleiner Fläche wird vom Spieler abgedeckt, also schwieriger Münzen aufzusammeln   |  
-| 12.1 |  Benutzer ist im Menu des Spieles    |     Auf Shop klicken     |    Man kommt ins Shop und sieht alle möglichen Skins, die man kaufen kann       |      
-| 13.1 |  Benutzer ist im Shop des Spieles     |     Skin auswählen     |    Skin wird im Tausch von Münzen gekauft         |     
-| 14.1 |  Nächstes Level wird gestartet |     -        |    Dieses Level ist schwieriger, als das vorherige     |               
-| 15.1 |  Benutzer ist im Menu des Spieles     |   Auf Level Menu klicken        |   die Levels, die es gibt, sehen.          |   
+| 7.1  | Spieler läuft durch eine grösser werdende Türe im Level durch      |   -          |      Spieler wird grösser        |       
+| 8.1  | Spieler läuft durch eine kleiner werdende Türe im Level durch      |   -       |       Spieler wird kleiner    |       
+| 9.1 |   Level läuft und Spieler ist grösser geworden    |     -      |    Grösser Fläche wird vom Spieler abgedeckt, also einfacher Münzen aufzusammeln    |       
+| 10.1 |   Level läuft und Spieler ist kleiner geworden    |  -         |     Kleiner Fläche wird vom Spieler abgedeckt, also schwieriger Münzen aufzusammeln   |  
+| 11.1 |  Benutzer ist im Menu des Spieles    |     Auf Shop klicken     |    Man kommt ins Shop und sieht alle möglichen Skins, die man kaufen kann       |      
+| 12.1 |  Benutzer ist im Shop des Spieles     |     Skin auswählen     |    Skin wird im Tausch von Münzen gekauft         |     
+| 13.1 |  Nächstes Level wird gestartet |     -        |    Dieses Level ist schwieriger, als das vorherige     |               
+| 14.1 |  Benutzer ist im Menu des Spieles     |   Auf Level Menu klicken        |   die Levels, die es gibt, sehen.          |   
 | 15.1 |  Benutzer ist im Level Menu des Spieles    |      -     |     Die Levels, die er noch nicht bewältigt/bewältigt hat sehen         |   
 |16.1| Benutzer ist im Menü des Spieles |  -  |Die Münzen, die man eingesammelt hat, werden angezeigt.|
 |17.1 | Benutzer ist im Menü des Spieles  | Lautstärke auswählen | Der Spielsound wird leiser/lauter.|
