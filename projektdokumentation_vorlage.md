@@ -33,7 +33,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 13   |  Kann           |  Q  | Als ein User möchte ich, dass ich mit Münzen einen Skin kaufen kann, damit ich cooler aussehe. |
 | 14   |  Kann           |  Q  | Als ein User möchte ich, dass die Levels immer schwieriger werden, damit es eine Herausforderung für mich ist.  |
 | 15  |  Kann           |  Q  | Als ein User möchte ich, dass ich im Level Menu sehen kann, welche Levels ich schon bewältigt habe, damit ich weiss wie viele ich noch vor mir habe. |
-|16|Kann | Q | Als ein User möchte ich eine Anzeige haben wie viel Münzen ich schon gesammelt habe, damit ich weiss wann ich einen Skin kaufen kann.|
+|16|Kann | Q | Als ein User möchte ich eine Anzeige haben, wie viel Münzen ich schon gesammelt habe, damit ich weiss, wann ich einen Skin kaufen kann.|
+|17 |Kann | Q |Ich möchte als User die Lautstärke des Spieles bestimmen können.|
 
 
 ### 1.3 Testfälle
