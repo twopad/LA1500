@@ -115,7 +115,7 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 | 3.A  |  07.03  |   Warnebold     |      45'         |         30'       |
 | 3.B  |  07.03  |   Warnebold     |      45'         |         50'       |
 | 3.C  |  07.03  |   Warnebold     |      45'         |         60'       |
-| 4.A  |  07.03  |   Lucena        |      45'         |         35'       |
+| 4.A  |  07.03  |   Lucena        |      45'         |         -         |
 | 5.A  |  07.03  |   Lucena        |      45'         |         25'       |
 | 5.B  |  07.03  |   Lucena        |      45'         |         25'       |
 | 6.A  |  14.03  |   Nursiwat      |      45'         |         -         |
