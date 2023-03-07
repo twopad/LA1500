@@ -71,14 +71,14 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit(in min) |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 07.03 | Nursiwat | Den Startbildschirm erstellen| 45' |
-| 1.B     | 07.03 |  Nursiwat | Das Levelmenü erstellen| 45' |
-| 2.A     | 07.03 |Marku        | Spieler läuft automatsich nach vorne| 45'|
+| 1.B     | 07.03 |  Nursiwat | Das Level Menü erstellen| 45' |
+| 2.A     | 07.03 |Marku        | Spieler läuft automatisch nach vorne| 45'|
 | 3.A     | 07.03 |Warnebold           | Hindernisse erstellen|45'|
 | 3.B     | 07.03 |  Warnebold         | Verschiedene Hindernisse sind auf dem Weg|45'|
 | 3.C | 07.03 |   Warnebold        | Den Spieler mit den Pfeiltasten nach links bewegen können.|45'|
 | 4.A | 07.03 |  Lucena         | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
 | 5.A  | 14.03 | Lucena           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
-| 5.B  | 07.03 | Lucena           | Wenn man im Level gegen ein Hinderniss läuft, muss man das Level weiderholen| 45'|
+| 5.B  | 07.03 | Lucena           | Wenn man im Level gegen ein Hindernis läuft, muss man das Level wiederholen| 45'|
 | 6.A| 14.03 | Nursiwat          | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
 | 7.A| 07.03 | Marku          | Münzen sammeln | 45'|
 | 7.B | 14.03 | Marku           | Münzen können gespeichert und benutzt werden| 45' |
@@ -99,8 +99,10 @@ Total: 990 min
 
 ## 3 Entscheiden
 
+Wir haben uns für ein Runnerspiel entschieden, weil keiner aus unserer Gruppe so ein Spiel programmiert hat und wir es lustig fanden.
+
 Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen wollten.
-Wir haben uns für ein Runnerspiel entschieden, weill es u
+
 
 ## 4 Realisieren
 
