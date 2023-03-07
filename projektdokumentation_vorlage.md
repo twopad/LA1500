@@ -83,15 +83,15 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 7.A| 07.03 | Marku          | Münzen sammeln | 45'|
 | 7.B | 14.03 | Marku           | Münzen können gespeichert und benutzt werden| 45' |
 | 7.C | 14.03 | Marku           | Man kann mit Münzen Skins im Shop kaufen| 45'|
-| 8.A | 14.03 | Warnebold          | Den Spieler kleiner machen wenn er durch eine verkleinerungs Tür läuft  |45' |
-| 9.A | 14.03 | Lucena          | Den Spieler grösser machen wenn er durch eine vergrösserungs Tür läuft  |  45'  |
+| 8.A | 14.03 | Warnebold          | Den Spieler kleiner machen, wenn er durch eine verkleinerungs Tür läuft  |45' |
+| 9.A | 14.03 | Lucena          | Den Spieler grösser machen, wenn er durch eine vergrösserungs Tür läuft  |  45'  |
 | 10.A| 14.03 | Lucena          | Die Hitbox von dem Spieler wird geändert, wenn er grösser wird.|45' |
 | 11.A|14.03 | Nursiwat         | Die Hitbox von dem Spieler wird geändert, wenn er kleiner wird.|45' |
 |12.A|14.03  | Nursiwat                      |Den Shop für Skins wird erstellt|45'|
-|13.A|14.03 |  Marku                   |Skins im shop für Münzen kaufen|45'|
-|14.A| 14.03 | Marku                  | Plattform, wo man drauf rennt, erstellen   |45'|
-|15.A|14.03 |Warnebold         |  Im Menü kann man sehen welche Levels man schon bewältigt hat.|45'|
-| 16.A| 14.03 | Nursiwat          | Es wird angezeigt wie veiel Münzen man eingesammelt hat. |45'|
+|13.A|14.03 |  Marku                   |Skins im Shop für Münzen kaufen|45'|
+|14.A| 14.03 | Marku                  | Plattform, wo man darauf rennt, erstellen   |45'|
+|15.A|14.03 |Warnebold         |  Im Menü kann man sehen, welche Levels man schon bewältigt hat.|45'|
+| 16.A| 14.03 | Nursiwat          | Es wird angezeigt, wie viel Münzen man eingesammelt hat. |45'|
 
 Total: 990 min
 
@@ -99,7 +99,8 @@ Total: 990 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen wollten.
+Wir haben uns für ein Runnerspiel entschieden, weill es u
 
 ## 4 Realisieren
 
