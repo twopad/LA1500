@@ -108,17 +108,29 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  07.03.2023  |   Nursiwat      |      45'         |         60'       |
-| 1.B  |  07.03.2023  |   Nursiwat      |      45'         |         30'       |
-| 2.A  |  07.03.2023  |   Marku         |      45'         |         40'       |
-| 3.A  |  07.03.2023  |   Warnebold     |      45'         |         30'       |
-| 3.B  |  07.03.2023  |   Warnebold     |      45'         |         50'       |
-| 3.C  |  07.03.2023  |   Warnebold     |      45'         |         60'       |
-| 4.A  |  07.03.2023  |    Lucena       |      45'         |         35'       |
-| 5.A  |  07.03.2023  |    Lucena       |      45'         |         25'       |
-| 5.B  |  07.03.2023  |    Lucena       |      45'         |         25'       |
-| 6.A  |  07.03.2023  |    Nursiwat     |      45'         |         -         |
-| 7.A  |  07.03.2023  |     Marku       |      45'         |         50'       |
+| 1.A  |  07.03  |   Nursiwat      |      45'         |         60'       |
+| 1.B  |  07.03  |   Nursiwat      |      45'         |         30'       |
+| 2.A  |  07.03  |   Marku         |      45'         |         40'       |
+| 3.A  |  07.03  |   Warnebold     |      45'         |         30'       |
+| 3.B  |  07.03  |   Warnebold     |      45'         |         50'       |
+| 3.C  |  07.03  |   Warnebold     |      45'         |         60'       |
+| 4.A  |  07.03  |   Lucena        |      45'         |         35'       |
+| 5.A  |  07.03  |   Lucena        |      45'         |         25'       |
+| 5.B  |  07.03  |   Lucena        |      45'         |         25'       |
+| 6.A  |  14.03  |   Nursiwat      |      45'         |         -         |
+| 7.A  |  07.03  |   Marku         |      45'         |         40'       |
+| 7.B  |  14.03  |   Marku         |      45'         |         -         |
+| 7.C  |  14.03  |   Marku         |      45'         |         -         |
+| 8.A  |  07.03  |   Warnebold     |      45'         |         25'       |
+| 9.A  |  07.03  |   Lucena        |      45'         |         25'       |
+| 10.A |  07.03  |   Lucena        |      45'         |         25'       |
+| 11.A |  07.03  |   Nursiwat      |      45'         |         25'       |
+| 12.A |  14.03  |   Nursiwat      |      45'         |         -         |
+| 13.A |  14.03  |   Marku         |      45'         |         -         |
+| 14.A |  07.03  |   Marku         |      45'         |         25'       |
+| 15.A |  14.03  |   Warnebold     |      45'         |         -         |
+| 16.A |  14.03  |   Nursiwat      |      45'         |         -         |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
