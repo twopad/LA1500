@@ -133,7 +133,7 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 | 16.A |  14.03  |   Nursiwat      |      45'         |         -         |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
