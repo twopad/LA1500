@@ -76,8 +76,8 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 2.A     | 07.03 |Marku        | Spieler läuft automatisch nach vorne| 45'|
 | 3.A     | 07.03 |Warnebold           | Hindernisse erstellen|45'|
 | 3.B     | 07.03 |  Warnebold         | Verschiedene Hindernisse sind auf dem Weg|45'|
-| 3.C | 07.03 |   Warnebold        | Den Spieler mit den Pfeiltasten nach links bewegen können.|45'|
-| 4.A | 07.03 |  Lucena         | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
+| 4.A | 07.03 |   Warnebold        | Den Spieler mit den Pfeiltasten nach links bewegen können.|45'|
+| 4.B | 07.03 |  Lucena         | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
 | 5.A  | 14.03 | Lucena           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
 | 5.B  | 07.03 | Lucena           | Wenn man im Level gegen ein Hindernis läuft, muss man das Level wiederholen| 45'|
 | 6.A| 14.03 | Nursiwat          | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
