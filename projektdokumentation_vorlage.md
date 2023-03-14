@@ -24,7 +24,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 3    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach rechts bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 4    |  Muss           |  F  | Als ein User möchte ich, dass ich mein Charakter nach links bewegen kann, damit mein Charakter nicht in die Hindernisse reinläuft. |
 | 5    |  Muss           |  F  | Als ein User möchte ich, dass ich das Level wiederholen kann, falls ich verliere, damit ich noch eine Chance bekomme, das Level zu bewältigen. |
-| 6    |  Muss           |  F  | Als ein User möchte ich, dass ich direkt zum nächsten Level gehe, falls ich das gespielte Level überwinde, damit ich nicht immer beim selben Level bleibe. |
+| 6    |  Muss           |  F  | Als ein User möchte ich, dass ich zum nächsten Level gehen kann, falls ich das gespielte Level überwinde, damit ich nicht immer beim selben Level bleibe. |
 | 7    |  Muss           |  F  | Als ein User möchte ich, dass ich mit meinem Charakter Münzen auf dem Weg sammeln kann, damit ich mir coole Skins später kaufen kann.|
 | 8    |  Muss           |  F  | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich kleiner macht, laufe kleiner werde. |
 | 9    |  Muss           |  F  | Als ein User möchte ich, dass wenn ich durch eine Türe, die dich grösser macht, laufe grösser werde.  |
@@ -47,7 +47,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 3.1  |  Spieler geht automatisch nach vorne     |     rechte Pfeiltaste drücken      |     Spieler bewegt sich nach rechts         |               
 | 4.1  |  Spieler geht automatisch nach vorne      |    linke Pfeiltaste drücken        |      Spieler bewegt sich nach links        |               
 | 5.1  |  Spieler läuft in ein Hindernis rein und verliert     |    Auf Level wiederholen klicken       |    Level startet neu         |               
-| 6.1  |  Spieler bewältigt das Level     |    -       |      Nächstes Level beginnt automatisch        |               
+| 6.1  |  Spieler bewältigt das Level     |    -       |      Nächstes Level vorgeschlagen        |               
 | 7.1  | Spieler läuft durch eine grösser werdende Türe im Level durch      |   -          |      Spieler wird grösser        |       
 | 8.1  | Spieler läuft durch eine kleiner werdende Türe im Level durch      |   -       |       Spieler wird kleiner    |       
 | 9.1 |   Level läuft und Spieler ist grösser geworden    |     -      |    Grösser Fläche wird vom Spieler abgedeckt, also einfacher Münzen aufzusammeln    |       
@@ -80,7 +80,7 @@ Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert ein
 | 4.B | 07.03 |  Lucena         | Den Spieler mit den Pfeiltasten nach rechts bewegen können.|45'|
 | 5.A  | 14.03 | Lucena           | Level kann man wiederholen, wenn man es nicht geschafft hat.|45' |
 | 5.B  | 07.03 | Lucena           | Wenn man im Level gegen ein Hindernis läuft, muss man das Level wiederholen| 45'|
-| 6.A| 14.03 | Nursiwat          | Man geht automatisch zum nächsten Level, wenn man es bewältigt hat. | 45' |
+| 6.A| 14.03 | Nursiwat          | Man bekommt die option zum nächsten Level zu gehen, wenn man es bewältigt hat. | 45' |
 | 7.A| 07.03 | Marku          | Münzen sammeln | 45'|
 | 7.B | 14.03 | Marku           | Münzen können gespeichert und benutzt werden| 45' |
 | 7.C | 14.03 | Marku           | Man kann mit Münzen Skins im Shop kaufen| 45'|
@@ -118,7 +118,7 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 | 4.B  |  07.03  |   Lucena        |      45'         |         -         |
 | 5.A  |  07.03  |   Lucena        |      45'         |         25'       |
 | 5.B  |  07.03  |   Lucena        |      45'         |         25'       |
-| 6.A  |  14.03  |   Nursiwat      |      45'         |         -         |
+| 6.A  |  14.03  |   Nursiwat      |      45'         |         45'       |
 | 7.A  |  07.03  |   Marku         |      45'         |         40'       |
 | 7.B  |  14.03  |   Marku         |      45'         |         -         |
 | 7.C  |  14.03  |   Marku         |      45'         |         -         |
