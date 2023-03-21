@@ -143,10 +143,25 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |       |  Level gestartet        |  Lucena     |
+| 2.1  |       |  Spieler geht automatisch        |  Lucena      |
+| 3.1  |       |  Spieler bewegt sich nach rechts        |  Lucena      |
+| 4.1  |       |  Spieler bewegt sich nach link        |   Lucena     |
+| 5.1  |       |  Level startet neu        | Marku      |
+| 6.1  |       |  Nächstes Level vorgeschlagen        |  Nursiwat      |
+| 7.1  |       |  Spieler wird grösser        |  Lucena      |
+| 8.1  |       |  Spieler wird kleiner        |   Lucena     |
+| 9.1  |       |  Spieler Fläche ist grösser        |   Nursiwat     |
+| 10.1  |       | Spieler Fläche ist kleiner         |  Nursiwat      |
+| 11.1  |       | Shop mit Skins die man kaufen kann         |   Warnebold     |
+| 12.1  |       | Skin für münzen bekommen         |  Warnebold      |
+| 13.1  |       | Schwierigeres Level         |   Nursiwat     |
+| 14.1  |       | Alle Level die es gibt         |  Marku      |
+| 15.1  |       | Levels die noch nicht bewletigt sind         |  Marku      |
+| 16.1  |       | Eingesammelte Münzen         |  Warnebold      |
+| 17.1  |       | Sound wird lauter oder leiser         |  Warnebold      |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 ### 5.2 Exploratives Testen
 
