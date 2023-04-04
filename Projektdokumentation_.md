@@ -9,7 +9,7 @@ Gruppe Rose: Lucena, Marku, Nursiwat, Warnebold
 | 07.03.2023 | 0.02   | Heute haben wir viele Arbeitspakete realisiert und zwei der Gruppe haben angefangen die Präsentation vorzubereiten.|                             
 | 14.03.2023|0.03 | Wir haben weiter Realisiert und den grössten Teil fertig realisiert. |
 |21.03.2023| 0.04| Heute haben wir die Arbeitspackete die noch zu erledigen waren fertig gestellt. Im Spiel sind die Wichtigsten Arbeitspackete fertig.|
-|       | 1.0.0   |                                                        
+| 04.04.2023       | 1.0.0   | Wir haben heute den lernberricht geschrieben und das exploratives testen durch geführt. |                                                        
 
 ## 1 Informieren
 
@@ -18,7 +18,7 @@ Gruppe Rose: Lucena, Marku, Nursiwat, Warnebold
 Wir machen ein 3D-Game in Unity und C#. Es ist ein Runner Spiel. Man steuert einen Charakter, der nach links und rechts bewegen kann. Auf dem Weg sind Hindernisse, denen man ausweichen muss. Ausserdem hat es auf dem Weg Münzen, die man einsammeln kann. Unity ist für uns alle neu. Es ist unser erstes 3D Spiel. Es ist anspruchsvoll, doch sehr spannend. Wir wollen viel über Unity und 3D Spiele lernen und erfolgreich unser erstes Spiel programmieren.
 
 ### 1.2 User Stories
-
+|
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss           |  F  | Als ein User möchte ich, dass ich ein Level auswählen kann, damit ich spielen kann.|
