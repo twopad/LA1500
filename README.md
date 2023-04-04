@@ -1,26 +1,51 @@
-# Lern-Bericht-Zahlenspiel
-Samuel Lucena
+Lernbericht
+Chocolate (Jesenko, Marku, Greub, von Rogall, Losada)
 
-## Einleitung
+Einleitung
+Wir haben im Lernatelier den Auftrag bekommen, ein Programm mit Windows Forms zu schreiben.
 
-Ich habe ein Zahlenspiel programmiert.
+Was haben wir gelernt?
+Wir haben gelernt, wie wir Key Inputs in Windows Forms benutzen, um unsere Spielfigur bewegen zu können.
 
-## Was habe ich gelernt?
+Beschreibung
+Wir haben in unserem Programm die Funktion keydown und keyup benutzt. Die Funktion keydown prüft, ob eine Taste auf der Tastatur heruntergedrückt wird. Die Funktion keyup überprüft, ob eine Taste gerade nicht heruntergedrückt wird. Wir haben das in unserem Programm so eingebaut, dass wir Bool's für alle Tasteninputs haben, die, wenn sie dann true sind, die Spielfigur bewegen.
 
-Ich habe gelernt mit Spielerinput umzugehen sodass mein Programm nicht abschmiert.
+private void keydown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Space) { if (onground == true) { jump = true; }}
+            if (e.KeyCode == Keys.A) { left = true; }
+            if (e.KeyCode == Keys.D) { right = true; }
+        }
+        
+private void keyup(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Space) { jump = false; onground = false; airtime = false; }
+            if (e.KeyCode == Keys.A) { left = false; }
+            if (e.KeyCode == Keys.D) { right = false; }
+        }
+Sobald nun die Leertaste gedrückt wird, wird, wenn onground auf true ist, jump auch auf true gesetzt, sodass ein Sprung ausgeführt werden kann. Wenn die Taste losgelassen wird, wird jump wieder auf false gesetzt. Dasselbe passiert mit den Tasten a und d.
 
-## Beschreibung
+this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.keydown);
+this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.keyup);
+Damit dies jedoch funktioniert, muss zuerst noch ein Event in WinForms erstellt werden.
 
-Als ich angefangen habe viel mir es recht schwer überhaupt so ein Zahlenspiel zu programieren. Aber mit den Mitteln die ich zur verfügung hatte wie Youtube oder Reddit fand ich schnell raus wo meine Fehler waren.
-das einzige Problem das ich noch hatte war das mein Projekt immer abschmierte, wenn ich nicht eine Zahl eingab. Ich habe zuerst überlegt was ich dagegen unternehmen kann und habe mit der Hilfe von Marek und dem Internet eine Lösung gefunden:
+Wie man im Video sehen kann, wird, sobald eine Taste gedrückt wird, der Dino nach rechts oder links bewegt oder springt.
 
-## Verifikation
+Verifikation
+Text:
 
-Ich bin auf eine Lösung gekommen die mein Problem behoben hat. Jetzt weiss ich auch wie ich try catch richtig anwenden.
+Der Text zeigt, dass wir erklären können, wie die gezeigte Methode aufgebaut ist und wir verstanden haben, wie jene funktioniert.
+Video:
 
-# Reflektion zum Arbeitsprozess
+Das Video zeigt, dass wir ein Beispiel zur Anwendung von Key Inputs kennen und anhand dieses Beispiels weitere Anwendungszwecke nennen können.
+Code:
 
-Am Anfang des Projekts war ich sehr unproduktiv und unmotiviert da ich nicht wusste wie ich anfangen sollte. Ich habe auch immer andere gefragt mir zu Helfen. Mit der Zeit kam ich besser rein und habe mich ins Zeug gelegt um Zeitlich auf dem neusten Stand zu sein.
+Der Code zeigt, dass wir verstanden haben, wie wir die beschriebene Methode praktisch anwenden können und diese im VisualStudio umsetzen können.
+Reflektion zum Arbeitsprozess
+Was gut an unserer Arbeit lief:
 
+An unserer Arbeit hat besonders das Pair-Programming gut funktioniert, bzw. dass wir in Zweiergruppen gut zusammen arbeiten konnten. Eine Gruppe hat sich dabei vor allem auf den Startbildschirm konzentriert, während sich die andere Gruppe um das eigentliche Spiel gekümmert hat.
+Was nicht gut an unserer Arbeit lief:
 
-**VBV**: Ich muss wenn ich gut arbeite bessere Pausen einteilen und wenn ich unmotiviert bin mich besser selbsständig um das Problem kümmern.
+Auch wenn wir zuerst Gedanken darüber gemacht haben, was das Konzept unseres Projektes sein sollte, haben wir während der Umsetzung gemerkt, dass das Spiel sich immer mehr in eine etwas andere Richtung bewegt, was sich auch anhand der Projektdokumentation bemerkbar gemacht hat.
+VBV: Sich zum Beginn des Projektes eine klare Struktur des Projektes ausdenken, so dass alle schon am Anfang ein klares Bild vom Projekt haben und so zum Ende des Projektes ein Programm geschaffen wird, welches den ursprünglichen Ansprüchen entspricht.
