@@ -3,7 +3,8 @@
 Rose(Nursiwat, Marku, Warnebold, Lucena)
 ## Einleitung
 
-Wir haben im Lernatelier den Auftrag bekommen, ein Programm mit Windows Forms zu schreiben.
+Wir haben im Lernatelier den Auftrag bekommen in Gruppen etwas zu programmieren. Wir haben uns entschieden ein Spiel mit Unity zu Programmieren.
+
 ## Was haben wir gelernt?
 Wir haben gelernt, wie wir `Key Inputs` in Windows Forms benutzen, um unsere Spielfigur bewegen zu können.
 ## Beschreibung
