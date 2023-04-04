@@ -8,8 +8,8 @@ Wir haben im Lernatelier den Auftrag bekommen in Gruppen etwas zu programmieren.
 ## Was haben wir gelernt?
 Wir haben gelernt, wie man in Unity Musik einfügt.
 ## Beschreibung
-Wir haben in unserem Programm die Funktion `keydown` und `keyup` benutzt.
-Die Funktion `keydown` prüft, ob eine Taste auf der Tastatur heruntergedrückt wird. Die Funktion `keyup` überprüft, ob eine Taste gerade nicht heruntergedrückt wird. Wir haben das in unserem Programm so eingebaut, dass wir Bool's für alle Tasteninputs haben, die, wenn sie dann `true` sind, die Spielfigur bewegen.
+Wir haben in unserem Programm mit `m_MusicSource` den `audioClip` abspielen lassen.
+Dieses `m_MusicSource` sucht den Audio Clip der bei dem grauen Block (_siehe Bild_) eingefügt wurde und spielt in dank `bool looping = true` immer wieder ab, bis man in den nächsten Bildschirm kommt.
 ```C#
 void PlayMusic(AudioClip audioClip, bool looping = true)
         {
@@ -26,13 +26,9 @@ void PlayMusic(AudioClip audioClip, bool looping = true)
             PlayMusic(m_Clips[soundID], looping);
         }
 ```
-_Sobald nun die Leertaste gedrückt wird, wird, wenn `onground` auf `true` ist, `jump` auch auf `true` gesetzt, sodass ein Sprung ausgeführt werden kann. Wenn die Taste losgelassen wird, wird `jump` wieder auf `false` gesetzt. Dasselbe passiert mit den Tasten `a` und `d`._
-_Damit dies jedoch funktioniert, muss zuerst noch ein Event in WinForms erstellt werden._
+Hier oben bei `Sound ID` bestätigt das Programm einfach das es den gewählten Sound (_Im Bild rechts bei Music Source_) abspielt und loopt.
 
 ![image](https://user-images.githubusercontent.com/110893302/229719745-94e1558f-0d89-46dd-95a8-0507a8412661.png)
-
-
-_Wie man im Video sehen kann, wird, sobald eine Taste gedrückt wird, der Dino nach rechts oder links bewegt oder springt._
 
 ## Verifikation
 
