@@ -6,7 +6,7 @@ Rose(Nursiwat, Marku, Warnebold, Lucena)
 Wir haben im Lernatelier den Auftrag bekommen in Gruppen etwas zu programmieren. Wir haben uns entschieden ein Spiel mit Unity zu Programmieren.
 
 ## Was haben wir gelernt?
-Wir haben gelernt, wie wir `Key Inputs` in Windows Forms benutzen, um unsere Spielfigur bewegen zu können.
+Wir haben gelernt, wie man in Unity Musik einfügt.
 ## Beschreibung
 Wir haben in unserem Programm die Funktion `keydown` und `keyup` benutzt.
 Die Funktion `keydown` prüft, ob eine Taste auf der Tastatur heruntergedrückt wird. Die Funktion `keyup` überprüft, ob eine Taste gerade nicht heruntergedrückt wird. Wir haben das in unserem Programm so eingebaut, dass wir Bool's für alle Tasteninputs haben, die, wenn sie dann `true` sind, die Spielfigur bewegen.
