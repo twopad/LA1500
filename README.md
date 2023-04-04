@@ -11,26 +11,22 @@ Wir haben gelernt, wie man in Unity Musik einfügt.
 Wir haben in unserem Programm die Funktion `keydown` und `keyup` benutzt.
 Die Funktion `keydown` prüft, ob eine Taste auf der Tastatur heruntergedrückt wird. Die Funktion `keyup` überprüft, ob eine Taste gerade nicht heruntergedrückt wird. Wir haben das in unserem Programm so eingebaut, dass wir Bool's für alle Tasteninputs haben, die, wenn sie dann `true` sind, die Spielfigur bewegen.
 ```C#
-private void keydown(object sender, KeyEventArgs e)
+void PlayMusic(AudioClip audioClip, bool looping = true)
         {
-            if (e.KeyCode == Keys.Space) { if (onground == true) { jump = true; }}
-            if (e.KeyCode == Keys.A) { left = true; }
-            if (e.KeyCode == Keys.D) { right = true; }
+            if (m_MusicSource.isPlaying)
+                return;
+           
+            m_MusicSource.clip = audioClip;
+            m_MusicSource.loop = looping;
+            m_MusicSource.Play();
         }
-        
-private void keyup(object sender, KeyEventArgs e)
+       
+        public void PlayMusic(SoundID soundID, bool looping = true)
         {
-            if (e.KeyCode == Keys.Space) { jump = false; onground = false; airtime = false; }
-            if (e.KeyCode == Keys.A) { left = false; }
-            if (e.KeyCode == Keys.D) { right = false; }
+            PlayMusic(m_Clips[soundID], looping);
         }
 ```
 _Sobald nun die Leertaste gedrückt wird, wird, wenn `onground` auf `true` ist, `jump` auch auf `true` gesetzt, sodass ein Sprung ausgeführt werden kann. Wenn die Taste losgelassen wird, wird `jump` wieder auf `false` gesetzt. Dasselbe passiert mit den Tasten `a` und `d`._
-
-```C#
-this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.keydown);
-this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.keyup);
-```
 _Damit dies jedoch funktioniert, muss zuerst noch ein Event in WinForms erstellt werden._
 
 ![image](https://user-images.githubusercontent.com/110893302/229719745-94e1558f-0d89-46dd-95a8-0507a8412661.png)
