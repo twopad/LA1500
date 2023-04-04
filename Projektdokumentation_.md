@@ -143,23 +143,23 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  04.04.2022     |  Level gestartet        |  Lucena     |
-| 2.1  |  04.04.2022    |  Spieler geht automatisch        |  Lucena      |
-| 3.1  |  04.04.2022  |  Spieler bewegt sich nach rechts        |  Lucena      |
-| 4.1  |  04.04.2022      |  ch nach link        |   Lucena     |
-| 5.1  |   04.04.2022    |  Level startet neu        | Marku      |
-| 6.1  |  04.04.2022     |  Nächstes Level vorgeschlagen        |  Nursiwat      |
-| 7.1  |   04.04.2022    |  Spieler wird grösser        |  Lucena      |
-| 8.1  |  04.04.2022     |  Spieler wird kleiner        |   Lucena     |
-| 9.1  |  04.04.2022     |  Spieler Fläche ist grösser        |   Nursiwat     |
-| 10.1  |   04.04.2022    | Spieler Fläche ist kleiner         |  Nursiwat      |
-| 11.1  |  04.04.2022     | Shop mit Skins die man kaufen kann         |   Warnebold     |
-| 12.1  | 04.04.2022     | Skin für münzen bekommen         |  Warnebold      |
-| 13.1  |  04.04.2022     | Schwierigeres Level         |   Nursiwat     |
-| 14.1  |  04.04.2022     | Alle Level die es gibt         |  Marku      |
-| 15.1  | 04.04.2022      | Levels die noch nicht bewletigt sind         |  Marku      |
-| 16.1  |  04.04.2022     | Eingesammelte Münzen         |  Warnebold      |
-| 17.1  |   04.04.2022    | Sound wird lauter oder leiser         |  Warnebold      |
+| 1.1  |  04.04   |  Level gestartet        |  Lucena     |
+| 2.1  |  04.04   |  Spieler geht automatisch        |  Lucena      |
+| 3.1  |  04.0|  Spieler bewegt sich nach rechts        |  Lucena      |
+| 4.1  |  04.04    |  ch nach link        |   Lucena     |
+| 5.1  |   04.04    |  Level startet neu        | Marku      |
+| 6.1  |  04.04   |  Nächstes Level vorgeschlagen        |  Nursiwat      |
+| 7.1  |   04.04 |  Spieler wird grösser        |  Lucena      |
+| 8.1  |  04.04  |  Spieler wird kleiner        |   Lucena     |
+| 9.1  |  04.04  |  Spieler Fläche ist grösser        |   Nursiwat     |
+| 10.1  |   04.04  | Spieler Fläche ist kleiner         |  Nursiwat      |
+| 11.1  |  04.04   | Shop mit Skins die man kaufen kann         |   Warnebold     |
+| 12.1  | 04.04  | Skin für münzen bekommen         |  Warnebold      |
+| 13.1  |  04.04    | Schwierigeres Level         |   Nursiwat     |
+| 14.1  |  04.04   | Alle Level die es gibt         |  Marku      |
+| 15.1  | 04.04   | Levels die noch nicht bewletigt sind         |  Marku      |
+| 16.1  |  04.04  | Eingesammelte Münzen         |  Warnebold      |
+| 17.1  |   04.04   | Sound wird lauter oder leiser         |  Warnebold      |
 
 
 
