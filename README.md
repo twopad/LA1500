@@ -51,12 +51,15 @@ _Wie man im Video sehen kann, wird, sobald eine Taste gedrückt wird, der Dino n
 
 # Reflektion zum Arbeitsprozess
 
+ 
+
 **Was gut an unserer Arbeit lief:**
-* An unserer Arbeit hat besonders das Pair-Programming gut funktioniert, bzw. dass wir in Zweiergruppen gut zusammen arbeiten konnten. Eine Gruppe hat sich dabei vor allem auf den Startbildschirm konzentriert, während sich die andere Gruppe um das eigentliche Spiel gekümmert hat.
+
+* An unserer Arbeit hat besonders das Zusammenarbeiten gut funktioniert. Auch zu viert konnten wir produktiv an einer Aufgabe arbeiten, ohne vom Thema abzuschweifen. Die Arbeitspakete haben wir gut verteilt, weshalb wir einen guten Überblick hatten.
 
 **Was nicht gut an unserer Arbeit lief:**
-* Auch wenn wir zuerst Gedanken darüber gemacht haben, was das Konzept unseres Projektes sein sollte, haben wir während der Umsetzung gemerkt, dass das Spiel sich immer mehr in eine etwas andere Richtung bewegt, was sich auch anhand der Projektdokumentation bemerkbar gemacht hat.
 
-**VBV**: Sich zum Beginn des Projektes eine klare Struktur des Projektes ausdenken, so dass alle schon am Anfang ein klares Bild vom Projekt haben und so zum Ende des Projektes ein Programm geschaffen wird, welches den ursprünglichen Ansprüchen entspricht.
+* Unser Projekt verlief schlussendlich nicht genau wie geplant, jedoch ist das für uns kein schlechter Aspekt. Obwohl wir uns zuerst Gedanken darüber gemacht haben, welches Konzept unseres Projektes sein sollte, haben wir während der Umsetzung festgestellt, dass sich das Spiel in eine etwas andere Richtung veränderte.
 
+**VBV**: Wir haben viel zu viel Zeit verloren beim Verknüpfen von Unity, ansonsten verlief unser Projekt sehr gut und alle haben etwas profitieren können.
 
