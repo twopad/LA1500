@@ -144,7 +144,7 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |  04.04.2022     |  Level gestartet        |  Lucena     |
-| 2.1  |  04.04.202204.04.2022     |  Spieler geht automatisch        |  Lucena      |
+| 2.1  |  04.04.2022    |  Spieler geht automatisch        |  Lucena      |
 | 3.1  |  04.04.2022  |  Spieler bewegt sich nach rechts        |  Lucena      |
 | 4.1  |  04.04.2022      |  ch nach link        |   Lucena     |
 | 5.1  |   04.04.2022    |  Level startet neu        | Marku      |
