@@ -167,8 +167,9 @@ Wir haben uns entschieden, mit Unity zu arbeiten, da wir etwas Neues lernen woll
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | Spiel startet| Maus ganz nach links|Nichtr von der Karte fallen|Nicht von der Karte gefallen|
+| II   | Spiel läuft  |linke Pfeiltaste| Charachter bewegt sich nach links|Passiert nichts|
+| III  | Spiel beendet|nichts   |Man kommt ins nächste Level|Man kommt ins gleiche Level|
 
 
 ## 6 Auswerten
