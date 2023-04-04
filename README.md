@@ -1,6 +1,6 @@
 # Lernbericht
 
-Chocolate (Jesenko, Marku, Greub, von Rogall, Losada)
+Rose(Nursiwat, Marku, Warnebold, Lucena)
 ## Einleitung
 
 Wir haben im Lernatelier den Auftrag bekommen, ein Programm mit Windows Forms zu schreiben.
